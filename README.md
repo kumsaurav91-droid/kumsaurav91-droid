@@ -47,8 +47,11 @@ I believe in **practical implementation** over theoretical knowledge. My approac
 
 ---
 
-### 🔍 [VerityAI](https://github.com/kumsaurav91-droid/VerityAI)
-> Python-based analysis tool that detects misleading advice and survivorship bias
+### 🚀 [UpTrack](http://3.219.249.242) - Website Uptime Monitoring Platform
+
+> Open-source website monitoring platform that tracks website uptime, detects downtime, records outages, and monitors response times through a clean dashboard.
+
+🔗 **[Live Web App](http://3.219.249.242)** | 💻 **[Source Code](https://github.com/kumsaurav91-droid/UpTrack-PBEL.git)**
 
 ---
 
