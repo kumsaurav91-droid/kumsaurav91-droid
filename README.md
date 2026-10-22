@@ -21,11 +21,10 @@
 
 I'm a **B.Tech Computer Science student** passionate about building scalable cloud infrastructure and modern backend systems. My journey in tech is driven by a deep curiosity about how cloud platforms power real-world applications at scale.
 
-- 📍 **Location:** India
+- 📍 **Location:** Delhi, India
 - 🎓 **Education:** B.Tech in Computer Science Engineering
-- 🎯 **Current Focus:** Cloud Engineering, AWS, Azure
+- 🎯 **Current Focus:** Cloud Engineering, AWS
 - 🌱 **Learning:** Cloud Infrastructure, AI Integration, Scalable Systems
-- 💡 **Motto:** Learning by building, not just theory
 
 ### 💡 What Drives Me
 
@@ -46,32 +45,10 @@ I believe in **practical implementation** over theoretical knowledge. My approac
 
 🔗 **[Live Web App](https://d2t805jkc0zu1t.cloudfront.net/)** | 💻 **[Source Code](https://github.com/kumsaurav91-droid/SimplifAI)**
 
-**Tech Stack:**
-- AWS Bedrock, Lambda, API Gateway, S3
-- JavaScript, Generative AI
-- Serverless Architecture
-
-**Highlights:**
-- 🏆 Built during **AI for Bharat Hackathon**
-- ☁️ **Serverless deployment** on AWS
-- 🤖 Real-time AI-powered responses using AWS Bedrock
-- 🌐 Scalable cloud architecture with Lambda & API Gateway
-- 📚 Explains complex coding concepts in simple language
-
 ---
 
 ### 🔍 [VerityAI](https://github.com/kumsaurav91-droid/VerityAI)
 > Python-based analysis tool that detects misleading advice and survivorship bias
-
-**Tech Stack:**
-- Python, Google Gemini 2.5 Flash
-- JavaScript
-- AI/ML Models
-
-**Purpose:**
-- Analyzes content for bias and misleading information
-- Helps users make informed decisions
-- Uses advanced AI for pattern detection
 
 ---
 
@@ -97,7 +74,6 @@ I believe in **practical implementation** over theoretical knowledge. My approac
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge\&logo=express\&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 
 ### 🗄️ Databases
@@ -107,34 +83,6 @@ I believe in **practical implementation** over theoretical knowledge. My approac
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 
 ---
-
-## 🎯 Current Focus
-<div align="center">
-
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔭 What I'm Working On
-- Building AI-powered applications on AWS & Azure
-- Exploring serverless architectures
-- Developing scalable backend systems
-- Learning cloud infrastructure design patterns
-
-</td>
-<td width="50%">
-
-### 🌱 Currently Learning
-- Advanced AWS services (Lambda, Bedrock, S3)
-- Microsoft Azure fundamentals
-- Cloud infrastructure automation
-- DevOps practices & CI/CD pipelines
-
-</td>
-</tr>
-</table>
-</div>
 
 ### 💼 Career Goals
 
